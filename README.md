@@ -11,5 +11,4 @@ ii) open the terminal
 iii) streamlit run test.py
 
 
-![Sleep Time predictor](https://github.com/user-attachments/assets/0d0fd4be-2e87-403e-9042-7b6a7557a02c)
-
+![Sleep Time predictor](https://photos.app.goo.gl/VSdnyFcn5RshoGky5)
